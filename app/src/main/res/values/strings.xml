@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountriesAndCities</string>
+    <string-array name="category">
+        <item>Austria</item>
+        <item>Poland</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Spain</item>
+    </string-array>
+</resources>
